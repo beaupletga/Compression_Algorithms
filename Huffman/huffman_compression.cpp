@@ -126,7 +126,7 @@ string decode(string encoded_text,Node* root)
 
 int main()
 {
-  string string_to_code="Bonjour je m'appelle Serge Beauplet";
+  string string_to_code="Bonjour je m'appelle Gabriel Beauplet";
 
 
   cout<<"Clear text : "<<string_to_code<<endl;
